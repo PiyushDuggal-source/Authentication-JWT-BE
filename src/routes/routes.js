@@ -1,4 +1,3 @@
-const UserModel = require("../models/models");
 const controller = require("../controllers/controller");
 const userReg = require("../controllers/userController");
 
